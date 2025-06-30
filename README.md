@@ -27,18 +27,11 @@
   A Python-based scraping project using Selenium to collect dynamic website data efficiently
 
 ---
-
-### 📊 GitHub Stats
-
-![Gökay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokaycetinn&show_icons=true&theme=github_dark&hide=issues)
-
----
-
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/gokay-cetinakdogan/)  
 - 🌐 [GitHub Portfolio](https://github.com/gokaycetinn)
-
+- 📧 [gokaycetin44@gmail.com](mailto:gokaycetin44@gmail.com)
 ---
 
 ⭐ *If you find my projects helpful or inspiring, feel free to give them a star or reach out via LinkedIn. Let's connect and collaborate!*
