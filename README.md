@@ -9,7 +9,7 @@
 
 ### 🔧 Technologies I Work With
 
-- ⚙️ **Languages**: Python, C#, JavaScript, SQL  
+- ⚙️ **Languages**: Python, C++, C#, JavaScript, SQL  
 - 🌐 **Web & App**: ASP.NET Core, Razor Pages, React Native, Flask  
 - 📦 **Big Data & Databases**: Apache Spark, Kafka, Hadoop, MongoDB, Cassandra, SQL Server  
 - 🧠 **Machine Learning**: Scikit-learn, XGBoost, ANN  
