@@ -26,7 +26,7 @@
 - 🔹 [🏫 Classroom Reservation System](https://github.com/gokaycetinn/Classroom-Reservation)  
   Role-based ASP.NET Core web app for reserving classrooms with email notifications and reporting
 
-- 🔹 [🎮 Push or Perish – MSP430 Game Project](./README_PushOrPerish.md)  
+- 🔹 [🎮 Push or Perish – MSP430 Game Project](https://github.com/gokaycetinn/PushOrPerish_MSP430)  
   A two-player game using MSP430, LEDs, buttons, and a 7-segment display to simulate countdown-based reaction battles 
   
 - 🔹 [🔍 Web Scraping with Python & Selenium](https://github.com/gokaycetinn/Web-Scraping-Python-Selenium)  
