@@ -23,7 +23,7 @@
   Real-time recommendation engine using Spark, Kafka & MongoDB  
 - 🔹 [🌾 Grain Yield Prediction with ML](https://github.com/gokaycetinn/CENG464-GrainYield-ML)  
   Classification model to estimate agricultural grain yield
-- 🔹 [🏫 Classroom Reservation System](https://github.com/gokaycetin/Classroom-Reservation)  
+- 🔹 [🏫 Classroom Reservation System](https://github.com/gokaycetinn/Classroom-Reservation)  
   Role-based ASP.NET Core web app for reserving classrooms with email notifications and reporting
 
 - 🔹 [🎮 Push or Perish – MSP430 Game Project](./README_PushOrPerish.md)  
