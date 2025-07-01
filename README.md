@@ -24,7 +24,11 @@
 - 🔹 [🌾 Grain Yield Prediction with ML](https://github.com/gokaycetinn/CENG464-GrainYield-ML)  
   Classification model to estimate agricultural grain yield
 - 🔹 [🏫 Classroom Reservation System](https://github.com/gokaycetin/ClassroomReservation)  
-  Role-based ASP.NET Core web app for reserving classrooms with email notifications and reporting  
+  Role-based ASP.NET Core web app for reserving classrooms with email notifications and reporting
+
+- 🔹 [🎮 Push or Perish – MSP430 Game Project](./README_PushOrPerish.md)  
+  A two-player game using MSP430, LEDs, buttons, and a 7-segment display to simulate countdown-based reaction battles 
+  
 - 🔹 [🔍 Web Scraping with Python & Selenium](https://github.com/gokaycetinn/Web-Scraping-Python-Selenium)  
   A Python-based scraping project using Selenium to collect dynamic website data efficiently
 
