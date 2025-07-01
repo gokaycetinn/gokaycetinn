@@ -22,7 +22,9 @@
 - 🔹 [💡 Big Data Product Recommendation System](https://github.com/gokaycetinn/Big-Data-Term-Project)  
   Real-time recommendation engine using Spark, Kafka & MongoDB  
 - 🔹 [🌾 Grain Yield Prediction with ML](https://github.com/gokaycetinn/CENG464-GrainYield-ML)  
-  Classification model to estimate agricultural grain yield  
+  Classification model to estimate agricultural grain yield
+- 🔹 [🏫 Classroom Reservation System](https://github.com/gokaycetin/ClassroomReservation)  
+  Role-based ASP.NET Core web app for reserving classrooms with email notifications and reporting  
 - 🔹 [🔍 Web Scraping with Python & Selenium](https://github.com/gokaycetinn/Web-Scraping-Python-Selenium)  
   A Python-based scraping project using Selenium to collect dynamic website data efficiently
 
