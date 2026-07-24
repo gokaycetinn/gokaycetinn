@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Gökay 👋</h2>
+<h2 align="center">Hello, I'm Gökay </h2>
 
 ###
 
