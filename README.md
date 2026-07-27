@@ -82,11 +82,7 @@
 ###
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=gokaycetinn&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=8&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E"
-    height="160"
-    alt="GitHub streak statistics"
-  />
+    <img src="https://streak-stats.demolab.com?user=gokaycetinn&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
