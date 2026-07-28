@@ -1,0 +1,37 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    # Her gün saat 03.00 UTC'de çalışır
+    - cron: "0 3 * * *"
+
+  # Actions bölümünden elle çalıştırmayı sağlar
+  workflow_dispatch:
+
+  # Workflow dosyası main branch'e eklendiğinde çalışır
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: Publish Pacman files
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
