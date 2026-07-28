@@ -12,50 +12,21 @@
 
 ###
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="32" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="32" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="32" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="32" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="32" alt="androidstudio logo"  />
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=py%2Creact%2Cfirebase%2Cts%2Ccs%2Cjs%2Cfigma%2Cazure%2Cgit%2Cgcp%2Ccpp%2Chtml%2Ccss%2Cflutter%2Ccloudflare%2Cmongodb%2Cgodot%2Csupabase%2Cvercel%2Cgrafana%2Cfastapi%2Candroidstudio&amp;theme=dark&amp;perline=11"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://skillicons.dev/icons?i=py%2Creact%2Cfirebase%2Cts%2Ccs%2Cjs%2Cfigma%2Cazure%2Cgit%2Cgcp%2Ccpp%2Chtml%2Ccss%2Cflutter%2Ccloudflare%2Cmongodb%2Cgodot%2Csupabase%2Cvercel%2Cgrafana%2Cfastapi%2Candroidstudio&amp;theme=light&amp;perline=11"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=py%2Creact%2Cfirebase%2Cts%2Ccs%2Cjs%2Cfigma%2Cazure%2Cgit%2Cgcp%2Ccpp%2Chtml%2Ccss%2Cflutter%2Ccloudflare%2Cmongodb%2Cgodot%2Csupabase%2Cvercel%2Cgrafana%2Cfastapi%2Candroidstudio&amp;theme=dark&amp;perline=11"
+      alt="Technology stack"
+    />
+  </picture>
 </div>
 
 ###
