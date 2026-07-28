@@ -107,24 +107,7 @@
 ###
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/gokay-cetinakdogan/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
-  
-  <a href="mailto:gokaycetin44@gmail.com">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52"
-      height="40"
-      alt="Gmail"
-    />
-  </a>
+  <a href="https://www.linkedin.com/in/gokay-cetinakdogan/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gokaycetin44@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" /></a>
 </div>
 
 ###
