@@ -91,45 +91,6 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/gokaycetinn/gokaycetinn/snake-output/snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/gokaycetinn/gokaycetinn/snake-output/snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/gokaycetinn/gokaycetinn/snake-output/snake.svg"
-      alt="GitHub contribution snake animation"
-    />
-  </picture>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gokay-cetinakdogan/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="52"
-      height="40"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:gokaycetin44@gmail.com">
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      width="52"
-      height="40"
-      alt="Gmail"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/gokaycetinn/gokaycetinn/pacman-output/pacman-contribution-graph-dark.svg"
     />
     <source
@@ -142,3 +103,28 @@
     />
   </picture>
 </div>
+
+###
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/gokay-cetinakdogan/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+      alt="LinkedIn"
+    />
+  </a>
+  
+  <a href="mailto:gokaycetin44@gmail.com">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="52"
+      height="40"
+      alt="Gmail"
+    />
+  </a>
+</div>
+
+###
