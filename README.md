@@ -13,26 +13,31 @@
 ###
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=py%2Creact%2Cfirebase%2Cts%2Ccs%2Cjs%2Cfigma%2Cazure%2Cgit%2Cgcp%2Ccpp%2Chtml%2Ccss%2Cflutter%2Ccloudflare%2Cmongodb%2Cgodot%2Csupabase%2Cvercel%2Cgrafana%2Cfastapi%2Candroidstudio&amp;theme=dark&amp;perline=11"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=py%2Creact%2Cfirebase%2Cts%2Ccs%2Cjs%2Cfigma%2Cazure%2Cgit%2Cgcp%2Ccpp%2Chtml%2Ccss%2Cflutter%2Ccloudflare%2Cmongodb%2Cgodot%2Csupabase%2Cvercel%2Cgrafana%2Cfastapi%2Candroidstudio&amp;theme=light&amp;perline=11"
-    />
-    <img
-      src="https://skillicons.dev/icons?i=py%2Creact%2Cfirebase%2Cts%2Ccs%2Cjs%2Cfigma%2Cazure%2Cgit%2Cgcp%2Ccpp%2Chtml%2Ccss%2Cflutter%2Ccloudflare%2Cmongodb%2Cgodot%2Csupabase%2Cvercel%2Cgrafana%2Cfastapi%2Candroidstudio&amp;theme=dark&amp;perline=11"
-      alt="Technology stack"
-    />
-  </picture>
-</div>
+  <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" height="42" alt="Python" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase&amp;theme=dark" height="42" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" height="42" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" height="42" alt="C Sharp" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" height="42" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" height="42" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" height="42" alt="Azure" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" height="42" alt="Git" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp&amp;theme=dark" height="42" alt="Google Cloud" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" height="42" alt="C Plus Plus" />
+  
+  <br>
 
-###
-
-<div align="center">
-   <img src="https://streak-stats.demolab.com?user=gokaycetinn&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://skillicons.dev/icons?i=html&amp;theme=dark" height="42" alt="HTML" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" height="42" alt="CSS" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark" height="42" alt="Flutter" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cloudflare&amp;theme=dark" height="42" alt="Cloudflare" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" height="42" alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=godot&amp;theme=dark" height="42" alt="Godot" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=supabase&amp;theme=dark" height="42" alt="Supabase" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" height="42" alt="Vercel" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=grafana&amp;theme=dark" height="42" alt="Grafana" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" height="42" alt="FastAPI" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=androidstudio&amp;theme=dark" height="42" alt="Android Studio" />
 </div>
 
 ###
