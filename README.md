@@ -32,7 +32,13 @@
 
 
 ###
-
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=gokaycetinn&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3"
+    height="150"
+    alt="GitHub streak statistics"
+  />
+</div>
 
 ###
 
